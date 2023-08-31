@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<h1>SAPAM DADA SIRTAN SINGH</h1>
+<hr />
+<body>
+<h2>Objective</h2>
+<ul>
+    <li>
+        To work in amd environment which encourage me to succed and grow professionally. where i can utilize my skill and knowledge
+        in an organization. which recognize the value of hard work and trust me with resonsible and challenge.
+    </li>
+</ul>
+<hr />
+<h2>Experience</h2>   
+<ul>
+    <li> Yai lifestyle private limited company <a href="https://www.yailifestyle.in">(https://www.yailifestyle.in)</a> 1 year of Experience.
+        <ul>
+            <li>Base on Health care product</li>
+            <li>Fulfill the customer and delivering the product on client door.</li>
+            <li>Giving awareness and sharing the benefits of the product.</li>
+            <li>Worked in a team handeling multiple task i.e money handeling and customer service.</li>
+        </ul> 
+    </li>
+    <li>Evorich <a href="https://office.evorich.info/site/login">(https://office.evorich.info/site/login)</a>
+        <ul>
+            <li>Big global investment company.</li>
+            <li>MAnaging investment on STO & ICO etc .</li>
+            <li>Money management and Diversification.</li>
+        </ul>
+    </li>
+    <li> Lulu hypermarket ,bangalore
+       <a href="lulugroupinternational.com">(lulugroupinternational.com)</a> 
+       <ul>
+         <li>Designation-Sales associate.</li>
+         <li>Anticipated follow through with customer needs.</li>
+       </ul>
+    </li>
+</ul>   
+<hr />
+<h2>Education</h2>
+    <ul>2019     - Pioneer Academy,Imphal East (COHSEM)<br/>
+        12th standard(Science stream)<br/>
+        68.8%
+    </ul>
+    <ul>2022     - Kha Manipur college, Kakching (Manipur university)<br/>
+        Bachelor of science (B.sc)<br/>
+        89.33%<br/>
+    </ul>
+<hr />
+<h2>Skills</h2>
+<ul>
+    <li>Negotiation and closing deals</li>
+    <li>Product knowledge</li>
+    <li>Communication and presentation slkills</li>
+    <li>Teamwork and collabration</li>
+</ul> 
+<hr />
+<h2>Personal details</h2> 
+<ul>
+    <li>Date od birth : 21/09/2002</li>
+    <li>Nationality : Indian</li>
+</ul>
+<hr />
+<h2>Additional information</h2>
+<ul>
+    <li>I am a very hard working competitive with good communication skill<br/>
+        who gives his best in whichever field i obtained.
+    </li>
+    <li>Good learner seeking for opportunity to learn new things.</li>
+    <li>Easily adaptive to new environment and culture.</li>
+</ul>        
+</body>
+</html> 
